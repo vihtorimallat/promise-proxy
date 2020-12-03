@@ -1,0 +1,23 @@
+{
+  "name": "promise-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vihtorimallat/promise-proxy.git"
+  },
+  "keywords": [
+    "promise",
+    "proxy"
+  ],
+  "author": "vihtorimallat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vihtorimallat/promise-proxy/issues"
+  },
+  "homepage": "https://github.com/vihtorimallat/promise-proxy#readme"
+}
